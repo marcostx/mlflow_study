@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcostexeira/mlflow_study/packages/linear_regression/mlruns/0/d32e883261714b53b9959fa5158debaf/artifacts
+end_time: 1618279599385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d32e883261714b53b9959fa5158debaf
+run_uuid: d32e883261714b53b9959fa5158debaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1618279599344
+status: 3
+tags: []
+user_id: marcostexeira
