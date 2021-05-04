@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcostexeira/mlflow_study/packages/mlruns/0/27c2d605cfcd48cd85807169c85f10cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 27c2d605cfcd48cd85807169c85f10cb
+run_uuid: 27c2d605cfcd48cd85807169c85f10cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1620154620006
+status: 1
+tags: []
+user_id: marcostexeira
